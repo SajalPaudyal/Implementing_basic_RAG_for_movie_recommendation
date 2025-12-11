@@ -63,7 +63,7 @@ Open the notebooks under `Information_Retrieval/` and run the cells top-to-botto
    - Loads `data/movies_metadata.csv`
    - Indexes movies with sentence embeddings in a vector store (FAISS)
    - Retrieves relevant movie contexts for a user’s natural-language query
-   - Uses an LLM to generate recommendations grounded in the retrieved context
+   - Uses an SLM (Small Language Model) to generate recommendations grounded in the retrieved context
 
 ## Data
 
